@@ -1,0 +1,5 @@
+{"input": "My account login says it is temporarily unavailable", "output": "Login"}
+{"input": "Can you tell me when my order will be delivered", "output": "Delivery"}
+{"input": "I forgot my password and need to reset it", "output": "Login"}
+{"input": "Why was I charged for an order I cancelled", "output": "Billing"}
+{"input": "I received a notification that my order was shipped but it has not arrived", "output": "Delivery"}

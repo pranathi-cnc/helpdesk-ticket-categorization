@@ -1,0 +1,6 @@
+ticket_id,ticket,actual_label,baseline_prediction,invalid_output,status
+T016,I changed my password but still cannot access my account,Login,Login,,CORRECT
+T021,My package has not arrived yet,Delivery,Delivery,,CORRECT
+T011,I cannot sign in to my account,Login,Login,,CORRECT
+T002,My invoice shows an incorrect amount,Billing,Billing,,CORRECT
+T026,I entered the wrong delivery address and need to change it,Delivery,Delivery,,CORRECT

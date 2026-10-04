@@ -1,0 +1,20 @@
+{"input": "I was charged twice for the same order", "output": "Billing"}
+{"input": "My order arrived later than the promised delivery date", "output": "Delivery"}
+{"input": "The tracking information has not been updated", "output": "Delivery"}
+{"input": "I need a copy of my payment receipt", "output": "Billing"}
+{"input": "My password reset link is not working", "output": "Login"}
+{"input": "I want to update my billing information", "output": "Billing"}
+{"input": "The website keeps rejecting my correct password", "output": "Login"}
+{"input": "I was charged a service fee that I do not understand", "output": "Billing"}
+{"input": "The package is still in transit after several days", "output": "Delivery"}
+{"input": "My package was marked delivered but I did not receive it", "output": "Delivery"}
+{"input": "I need help accessing my account", "output": "Login"}
+{"input": "The payment for my order was declined", "output": "Billing"}
+{"input": "I am locked out after several failed login attempts", "output": "Login"}
+{"input": "I need help tracking my delivery", "output": "Delivery"}
+{"input": "My refund has not appeared on my account", "output": "Billing"}
+{"input": "I cannot log in from my new phone", "output": "Login"}
+{"input": "I need help understanding a charge on my account", "output": "Billing"}
+{"input": "The verification code for login is not arriving", "output": "Login"}
+{"input": "My delivery is delayed", "output": "Delivery"}
+{"input": "The amount charged is different from the amount shown at checkout", "output": "Billing"}

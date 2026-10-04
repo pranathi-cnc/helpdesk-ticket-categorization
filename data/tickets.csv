@@ -1,0 +1,31 @@
+ticket_id,ticket,expected_label
+T001,I was charged twice for the same order,Billing
+T002,My invoice shows an incorrect amount,Billing
+T003,I need a copy of my payment receipt,Billing
+T004,The payment for my order was declined,Billing
+T005,I was charged a service fee that I do not understand,Billing
+T006,My refund has not appeared on my account,Billing
+T007,I want to update my billing information,Billing
+T008,The amount charged is different from the amount shown at checkout,Billing
+T009,Why was I charged for an order I cancelled,Billing
+T010,I need help understanding a charge on my account,Billing
+T011,I cannot sign in to my account,Login
+T012,I forgot my password and need to reset it,Login
+T013,My password reset link is not working,Login
+T014,I am locked out after several failed login attempts,Login
+T015,The verification code for login is not arriving,Login
+T016,I changed my password but still cannot access my account,Login
+T017,The website keeps rejecting my correct password,Login
+T018,I cannot log in from my new phone,Login
+T019,My account login says it is temporarily unavailable,Login
+T020,I need help accessing my account,Login
+T021,My package has not arrived yet,Delivery
+T022,Can you tell me when my order will be delivered,Delivery
+T023,My delivery is delayed,Delivery
+T024,The tracking information has not been updated,Delivery
+T025,My package was marked delivered but I did not receive it,Delivery
+T026,I entered the wrong delivery address and need to change it,Delivery
+T027,My order arrived later than the promised delivery date,Delivery
+T028,The package is still in transit after several days,Delivery
+T029,I received a notification that my order was shipped but it has not arrived,Delivery
+T030,I need help tracking my delivery,Delivery
